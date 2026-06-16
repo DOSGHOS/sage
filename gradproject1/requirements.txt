@@ -1,0 +1,14 @@
+# Core dependencies
+scapy>=2.5.0
+
+# Cryptography support (for BLE/Zigbee encryption analysis)
+pycryptodome>=3.18.0
+
+# Optional: Performance improvements
+# numpy>=1.24.0
+
+# Optional: Advanced packet analysis
+# pyshark>=0.6.0
+
+
+
